@@ -1,4 +1,4 @@
-# Spletna-naročila
+# Spletna-narocila
 
 [Poglejte backend](https://github.com/Shkettoe/Spletna-naro-ila/tree/main/spletna-narocila-backend)
 
