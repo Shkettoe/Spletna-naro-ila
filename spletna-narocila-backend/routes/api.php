@@ -21,7 +21,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/orders', [OrderController::class, 'index']);
 Route::get('/orders/{id}', [OrderController::class, 'show']);
-Route::post('/orders', [OrderController::class, 'store']);
 Route::patch('/orders/{id}', [OrderController::class, 'update']);
-
-Route::post('test', [OrderController::class, 'test']);

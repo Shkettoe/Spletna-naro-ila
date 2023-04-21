@@ -23,4 +23,6 @@ patch /orders/:id - urejanje posameznega naročila
 
 ## Zagon
 
+`php artisan migrate`
+
 `php artisan serve`
