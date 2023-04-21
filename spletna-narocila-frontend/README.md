@@ -1,6 +1,6 @@
 # Frontend Spletna naročila
 
-[Backend najdete tukaj](google.com)
+[Backend najdete tukaj](https://github.com/Shkettoe/Spletna-naro-ila/tree/main/spletna-narocila-backend)
 
 ## Spremenljivke okolja:
 
